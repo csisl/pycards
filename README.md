@@ -13,7 +13,7 @@ A python script to replicate the functionality of flashcards
 
 ### Usage
 ```
-python3 flashcards study_file.txt
+python3 flashcards.py study_file.txt
 ```
 
 ## Q/A file
