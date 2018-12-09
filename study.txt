@@ -1,4 +1,4 @@
-Q: What is your name?
-A: Stephanie
-Q: What is the 
-A: what the fook
+What is your name?
+Stephanie
+What is the capital of Texas?
+Austin
