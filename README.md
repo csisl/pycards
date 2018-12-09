@@ -16,8 +16,8 @@ A python script to replicate the functionality of flashcards
 python3 flashcards study_file.txt
 ```
 
-## study_file.txt
-This file should contains a series of questions followed by an answer.
+## Q/A file
+This file (study_file.txt) should contains a series of questions followed by an answer.
 *flashcards* will read this file and display each question one at a time, then when ready, the answer.
 
 
