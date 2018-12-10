@@ -125,7 +125,7 @@ def q_round():
 			wrong_ans = 0
 			askQuestions()
 			if wrong_ans == 0:
-				done_studying()
+				#done_studying()
 				break
 	else:
 		done_studying()
