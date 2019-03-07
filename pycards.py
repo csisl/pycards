@@ -35,7 +35,7 @@ nice_message = """
 mMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM"""
 
 if len(sys.argv) < 2:
-	print ("Usage: -filename")
+	print ("usage: python3 pycards.py filename.txt")
 	sys.exit()
 	
 # dictionary to hold the questions and answers
